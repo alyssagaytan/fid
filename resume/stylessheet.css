@@ -21,11 +21,11 @@ body {
   border-right: 2px solid black;
   padding-right: 2em;
 }
-h1 {
+h3 {
   font-family: 'New Tegomin',serif;
   text-align: center;
 }
-h2 {
+h3 {
   font-family: 'New Tegomin',serif;
   font-size: 1.5em;
   font-weight: bold;

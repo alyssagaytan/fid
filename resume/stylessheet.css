@@ -1,13 +1,13 @@
 body {
-  background-color: #3d3d5c;
+  background-color: #FFD3F5;
   background-size: 20px 20px;
   background-attachment: fixed;
 }
 .body2 {
-  background-color: white;
+  background-color: light pink;
   background-color: rgba(255, 255, 255, 0.75);
   margin: 5% 10%;
-  font-family: Sans-serif;
+  font-family: 'New Tegomin',serif;
   padding: 2em;
 }
 .sectionall {
@@ -22,11 +22,11 @@ body {
   padding-right: 2em;
 }
 h1 {
-  font-family: 'Montserrat';
+  font-family: 'New Tegomin',serif;
   text-align: center;
 }
 h2 {
-  font-family: 'Montserrat';
+  font-family: 'New Tegomin',serif;
   font-size: 1.5em;
   font-weight: bold;
   color: #8600b3;
@@ -47,7 +47,7 @@ h2 {
 }
 a {
   text-decoration: none;
-  color: blue;
+  color: purple;
 }
 a:hover {
   color: #8600b3;
